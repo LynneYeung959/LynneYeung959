@@ -86,6 +86,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">My projets 🗃</h2>
+<p align="center"><a href="https://github.com/LynneYeung959/Projet_Cpp_ProtectU">Projet en C, un jeux pour la period covid</h6></p>
 
 <h2 align="center">Top langs :tongue:</h2>
 
