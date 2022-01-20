@@ -85,14 +85,14 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+<h2 align="center">My projets 🗃</h2>
 
-
-<h2 align="center">Top langs :tongue:</h4>
+<h2 align="center">Top langs :tongue:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynneYeung959&langs_count=10&theme=tokyonight&layout=compact" alt="LynneYeung959 :: Top Langs" /></p>
 
 
-<h2 align="center">Profile stats :musical_keyboard:</h4>
+<h2 align="center">Profile stats :musical_keyboard:</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LynneYeung959&show_icons=true&theme=synthwave" alt="LynneYeung959 :: Profile Stats" /></p>
 
