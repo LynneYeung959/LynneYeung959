@@ -42,6 +42,11 @@ func GetBio() Bio {
 		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
 	}
 }
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{LynneYeung959}/count.svg" alt="LynneYeung959 :: Visitor's Count" /></p>
 ```
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -64,18 +69,15 @@ func GetBio() Bio {
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynneYeung959&langs_count=10&theme=tokyonight&layout=compact" alt="LynneYeung959 :: Top Langs" /></p>
+
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LynneYeung959&show_icons=true&theme=synthwave" alt="LynneYeung959 :: Profile Stats" /></p>
 
 
 
