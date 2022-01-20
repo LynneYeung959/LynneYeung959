@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 - 🌱 Intrested in IoT, Electronic, Test and Validation, Embedded System, Signal processing
 - ⭐️ Hobbies : Jogging🏃, Travel🏖, Movie📽, Photography📸
 - 🪄 Languages : French, English, Chinese
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jan.kry959@gmail.com)](mailto:jan.kry959@gmail.com)
+
+
 
 <h2 align="center">You can reach me at 💬</h2>
 
