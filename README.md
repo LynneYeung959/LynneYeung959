@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Liyun YANG
+# Hi 👋🏻 This is Liyun YANG ⭐️
 <h2 align="center">About me</h2>
 
 ```golang
@@ -47,9 +47,6 @@ func GetBio() Bio {
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
-  <a href="https://dev.to/anhello">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="YANG Liyun's Profile" height="30" width="30">
-  </a>
 
   <a href="www.linkedin.com/in/lynne-yang-se">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="YANG Liyun's LinkedIn Profile" height="30" width="30">
@@ -83,5 +80,3 @@ func GetBio() Bio {
 
 
 ---
-
-⭐️ From [@AnhellO](https://github.com/AnhellO)
