@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### I'm Liyun YANG
 
 - 🏫 A Electronic, Information Engineering and Embedded Systems Student at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr) in Paris, France
-- 🌱 Intrested in IoT, Electronic, Test and Validation, Embedded System, Signal processing
+- 🌱 Intrested in IoT☁, Electronic :signal_strength:, Test and Validation🔎, Embedded System🖥, Signal processing📶
 - ⭐️ Hobbies : Jogging🏃, Travel🏖, Movie📽, Photography📸
 - 🪄 Languages : French, English, Chinese
 
