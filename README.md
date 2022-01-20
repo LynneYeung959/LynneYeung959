@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/lynne-yang-se">
+  <a href="https://www.linkedin.com/in/lynne-yang-se/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="YANG Lynne's LinkedIn Profile" height="30" width="30">
   </a>
   <a href="https://github.com/LynneYeung959">
