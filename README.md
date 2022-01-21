@@ -72,11 +72,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  🔧 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="LynneYeung959 :: Techstack" />
-  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="LynneYeung959 :: Techstack" />
-  </a>
-</p>
-<p align="center">
   📚 <img src="https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite&logoColor=white" alt="LynneYeung959 :: Techstack" />
   <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch&logoColor=white" alt="LynneYeung959 :: Techstack" />
   <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow&logoColor=white" alt="LynneYeung959 :: Techstack" />
@@ -84,9 +79,22 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy&logoColor=white" alt="LynneYeung959 :: Techstack" />
   </a>
 </p>
+<p align="center">
+  🔧 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="LynneYeung959 :: Techstack" />
+  <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="LynneYeung959 :: Techstack" />
+  </a>
+</p>
+
 
 <h2 align="center">My projets 🗃</h2>
-<p align="center"><a href="https://github.com/LynneYeung959/Projet_Cpp_ProtectU">Projet en C, un jeux pour la period covid</h6></p>
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Projet_Cpp_ProtectU"> ProtectU </h6></a> : A scripted game about learning how to defend against a COVID19 </a>
+   </p>
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : utilise TCP and UDP </a>
+   </p>
+</p>
+
 
 <h2 align="center">Top langs :tongue:</h2>
 
