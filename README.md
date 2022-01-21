@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 	<a href="https://github.com/LynneYeung959/Projet_Cpp_ProtectU"> ProtectU </h6></a> : A scripted game about learning how to defend against a COVID19 </a>
    </p>
    <p align="center">
-	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : utilise TCP and UDP </a>
+	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : use TCP and UDP </a>
    </p>
 </p>
 
