@@ -69,6 +69,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Matlab-333333?style=flat&logo=matlab&logoColor=white" alt="LynneYeung959 :: Techstack" />
   <img src="https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino&logoColor=white" alt="LynneYeung959 :: Techstack" />
   <img src="https://img.shields.io/badge/-Trello-333333?style=flat=Trello&logoColor=white" alt="LynneYeung959 :: Techstack" />
+  <img src="https://img.shields.io/badge/-MBED-333333?style=flat=MBED&logoColor=white" alt="LynneYeung959 :: Techstack" />
   </a>
 </p>
 <p align="center">
@@ -88,12 +89,40 @@ Here are some ideas to get you started:
 
 <h2 align="center">My projets 🗃</h2>
    <p align="center">
+	<a href="https://github.com/LynneYeung959/HumTem_IoT_NodeRed"> Humidity temperature detector </h6></a> : 2 two-way communications architectures that use REST and MQTT protocols </a>
+   </p>
+   
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Projet_compilation"> Compilater </h6></a> : transforms a source program into an assembler program with language MiniC </a>
+   </p>
+   
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Algo_Numerotation"> Numbering Algorithm </h6></a> : determin all the minimal numberings of a given undirected and connected graph </a>
+   </p>
+   
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/TDD2_test_logiciel"> TDD </h6></a> : Test Driven Development exercise </a>
+   </p>
+   
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : use TCP and <a href="https://github.com/LynneYeung959/Projet_R-seau_UDP"> UDP </h6> </a>
+   </p>
+   
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Convertisseur_Euro_Dollar_java"> Euro/Dolla graphic converter </h6></a> : GUI with Swing </a>
+   </p>
+   
+   <p align="center">
 	<a href="https://github.com/LynneYeung959/Projet_Cpp_ProtectU"> ProtectU </h6></a> : A scripted game about learning how to defend against a COVID19 </a>
    </p>
+   
+   
+   
    <p align="center">
-	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : use TCP and UDP </a>
+	<a href="https://github.com/LynneYeung959/ProjetC_Snake"> Snak'O'tron </h6></a> : projet C, two snakes have to move while avoiding the walls, the adversary as well as himself. </a>
    </p>
 </p>
+
 
 
 <h2 align="center">Top langs :tongue:</h2>
