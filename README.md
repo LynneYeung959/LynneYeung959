@@ -89,6 +89,10 @@ Here are some ideas to get you started:
 
 <h2 align="center">My projets 🗃</h2>
    <p align="center">
+	<a href="https://github.com/LynneYeung959/Project_CapCO2"> Concentration CO2 detector </h6></a> : 2 prototyping : ESP32 Devkit with external module LoRa / The Thing Network Uno with integrated module LoRa </a>
+   </p>
+
+   <p align="center">
 	<a href="https://github.com/LynneYeung959/HumTem_IoT_NodeRed"> Humidity temperature detector </h6></a> : 2 two-way communications architectures that use REST and MQTT protocols </a>
    </p>
    
