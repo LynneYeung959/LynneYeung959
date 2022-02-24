@@ -98,11 +98,15 @@ Here are some ideas to get you started:
    </p>
    
    <p align="center">
+	<a href="https://github.com/LynneYeung959/Algo_Numerotation"> Numbering Algorithm </h6></a> : determin all the minimal numberings of a given undirected and connected graph </a>
+   </p>
+   
+   <p align="center">
 	<a href="https://github.com/LynneYeung959/Projet_compilation"> Compilater </h6></a> : transforms a source program into an assembler program with language MiniC </a>
    </p>
    
    <p align="center">
-	<a href="https://github.com/LynneYeung959/Algo_Numerotation"> Numbering Algorithm </h6></a> : determin all the minimal numberings of a given undirected and connected graph </a>
+	<a href="https://github.com/LynneYeung959/BEElink"> Open Ruche "BEELink" </h6></a> : determin all the minimal numberings of a given undirected and connected graph </a>
    </p>
    
    <p align="center">
@@ -116,7 +120,9 @@ Here are some ideas to get you started:
    <p align="center">
 	<a href="https://github.com/LynneYeung959/Convertisseur_Euro_Dollar_java"> Euro/Dolla graphic converter </h6></a> : GUI with Swing </a>
    </p>
-   
+   <p align="center">
+	<a href="https://github.com/LynneYeung959/Game"> Simple Role Playing Game </h6></a> : GUI with Swing </a>
+   </p>
    <p align="center">
 	<a href="https://github.com/LynneYeung959/Projet_Cpp_ProtectU"> ProtectU </h6></a> : A scripted game about learning how to defend against a COVID19 </a>
    </p>
