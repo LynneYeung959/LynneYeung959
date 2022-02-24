@@ -106,15 +106,15 @@ Here are some ideas to get you started:
    </p>
    
    <p align="center">
-	<a href="https://github.com/LynneYeung959/BEElink"> Open Ruche "BEELink" </h6></a> : determin all the minimal numberings of a given undirected and connected graph </a>
+	<a href="https://github.com/LynneYeung959/BEElink"> Open Ruche "BEELink" </h6></a> : IoT device designed to connect bee hives to monitor their bee hives in real time </a>
    </p>
    
    <p align="center">
-	<a href="https://github.com/LynneYeung959/TDD2_test_logiciel"> TDD </h6></a> : Test Driven Development exercise </a>
+	<a href="https://github.com/LynneYeung959/TDD2_test_logiciel"> TDD </h6></a> : Test Driven Development exercise with derivative functions</a>
    </p>
    
    <p align="center">
-	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : use TCP and <a href="https://github.com/LynneYeung959/Projet_R-seau_UDP"> UDP </h6> </a>
+	<a href="https://github.com/LynneYeung959/Projet_reseau"> Bank Account Manager </h6></a> : use TCP and <a href="https://github.com/LynneYeung959/Projet_R-seau_UDP"> UDP protocols</h6> </a>
    </p>
    
    <p align="center">
