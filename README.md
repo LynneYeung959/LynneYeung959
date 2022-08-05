@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Intrested in IoT☁, Electronic :signal_strength:, Test and Validation🔎, Embedded System🖥, Signal processing📶
 - ⭐️ Hobbies : Jogging🏃, Travel🏖, Movie📽, Photography📸
 - 🪄 Languages : French, English, Chinese
-- 🌏 I'm looking for a graduation internship
+- 🌏 I'm looking for a mission in embedded systems
 
 
 
